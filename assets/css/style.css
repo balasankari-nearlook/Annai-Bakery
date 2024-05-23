@@ -11081,9 +11081,10 @@ textarea.form-control {
 /* ----- About Page Style ----- */
 .aboutus-image {
   height: 100%;
-  width: calc((100vw - 100%) / 2 + 100%);
-  min-width: calc((100vw - 100%) / 2 + 100%);
+  width: 900px;
+  min-width:40px;
   position: relative;
+  margin-right: 100px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .aboutus-image {
