@@ -12236,7 +12236,7 @@ textarea.form-control {
   border-radius: 36px;
   transition: all 0.3s ease;
   cursor: pointer;
-  height:250px
+  height:350px
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (max-width: 767px) {
   .best-service-item {
